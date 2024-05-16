@@ -1,0 +1,30 @@
+:root {
+    --line-height: calc(1ex / 0.32);
+}
+
+body {
+    max-width: 70ch;
+    margin: 1rem auto;
+    padding: 0 1rem;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: var(--line-height);
+}
+img {width:100%;height: auto;}
+div {display: inline-block;}
+
+h1 a {text-decoration: none;color: inherit;}
+/*p.base {display: inline-block;}*/
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+div.base {
+    width: 100%;
+}
+
+
+#mc_embed_signup{font-size: smaller; width: 100%;}

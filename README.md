@@ -1,2 +1,3 @@
 # genlog
-Generative art
+
+Thierry Crouzet generative experiments
