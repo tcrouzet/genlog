@@ -1,1 +1,1 @@
-function loadContent(callback) { var link = { "url": "https://genlog.tcrouzet.com/2024/06/02_fr/", "title": "Dimanche 2 juin 2024" }; callback(link); }
+function loadContent(callback) { var link = { "url": "https://genlog.tcrouzet.com/2024/06/03_fr/", "title": "Lundi 3 juin 2024" }; callback(link); }
