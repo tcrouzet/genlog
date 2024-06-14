@@ -1,1 +1,1 @@
-function loadContent(callback) { var link = { "url": "https://genlog.tcrouzet.com/2024/06/03_fr/", "title": "Lundi 3 juin 2024" }; callback(link); }
+function loadContent(callback) { var link = { "url": "https://genlog.tcrouzet.com/2024/06/14_fr/", "title": "La Forêt Sombre" }; callback(link); }
